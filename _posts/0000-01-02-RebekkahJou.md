@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+All your Lia belong to mommy
 Use the left arrow to go back!
